@@ -1,5 +1,3 @@
- # Variaveis - salario, aliquota, salLiq
- 
 salario = float(input("Digite o valor de salário:"))
 aliquota = 0
 salLiq = 0
